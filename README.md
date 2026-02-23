@@ -4,16 +4,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20There!%20I'm%20Aaryan%20%F0%9F%91%8B&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Universe&descSize=18&descAlignY=60&descColor=ffffffcc" />
 
 <!-- Typing SVG -->
-<a href="https://github.com/Aaryan1980">
+<a href="https://github.com/Code-Hexster">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Full-Stack+Developer+%F0%9F%9A%80;Always+Learning+%7C+Always+Building+%F0%9F%94%A5;Turning+Ideas+Into+Reality+%E2%9C%A8;Code+%E2%80%A2+Create+%E2%80%A2+Conquer+%F0%9F%92%AA" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Profile Views Badge -->
-<img src="https://komarev.com/ghpvc/?username=Aaryan1980&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Code-Hexster&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 &nbsp;
-<a href="https://github.com/Aaryan1980?tab=followers"><img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Follow" /></a>
+<a href="https://github.com/Code-Hexster?tab=followers"><img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Follow" /></a>
 
 </div>
 
@@ -58,9 +58,9 @@
 <br/>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Aaryan1980&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A855F7&currStreakNum=58A6FF&sideNums=7C3AED&currStreakLabel=A855F7&sideLabels=58A6FF&dates=8B949E&border_radius=12" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Code-Hexster&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A855F7&currStreakNum=58A6FF&sideNums=7C3AED&currStreakLabel=A855F7&sideLabels=58A6FF&dates=8B949E&border_radius=12" />
     <img
-      src="https://streak-stats.demolab.com?user=Aaryan1980&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A855F7&currStreakNum=58A6FF&sideNums=7C3AED&currStreakLabel=A855F7&sideLabels=58A6FF&dates=8B949E&border_radius=12"
+      src="https://streak-stats.demolab.com?user=Code-Hexster&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A855F7&currStreakNum=58A6FF&sideNums=7C3AED&currStreakLabel=A855F7&sideLabels=58A6FF&dates=8B949E&border_radius=12"
       alt="GitHub Streak Stats"
       height="230"
     />
@@ -90,7 +90,7 @@
     <td valign="top" width="50%">
 
 ### 📬 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aaryan1980)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Code-Hexster)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 
