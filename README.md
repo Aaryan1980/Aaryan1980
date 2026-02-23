@@ -18,3 +18,22 @@
 </div>
 
 <!-- Bottom Wave -->
+
+---
+
+<!-- 🔥 GitHub Streak Stats - with popup animation -->
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Aaryan1980&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A855F7&currStreakNum=58A6FF&sideNums=7C3AED&currStreakLabel=A855F7&sideLabels=58A6FF&dates=8B949E&border_radius=12" />
+    <img
+      src="https://streak-stats.demolab.com?user=Aaryan1980&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A855F7&currStreakNum=58A6FF&sideNums=7C3AED&currStreakLabel=A855F7&sideLabels=58A6FF&dates=8B949E&border_radius=12"
+      alt="GitHub Streak Stats"
+      style="margin-top: 10px; transition: transform 0.3s ease; transform: scale(1);"
+      onmouseover="this.style.transform='scale(1.05)'"
+      onmouseout="this.style.transform='scale(1)'"
+      height="200"
+    />
+  </picture>
+
+</div>
