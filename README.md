@@ -13,7 +13,7 @@
 <!-- Profile Views Badge -->
 <img src="https://komarev.com/ghpvc/?username=Aaryan1980&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/Aaryan1980?label=Followers&style=social" alt="GitHub Followers" />
+<a href="https://github.com/Aaryan1980?tab=followers"><img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Follow" /></a>
 
 </div>
 
@@ -72,7 +72,42 @@
 
 ---
 
+## 👤 About Me
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### 🙋 Who Am I?
+- 🔭 &nbsp; Currently working on **exciting full-stack projects**
+- 🌱 &nbsp; Currently learning **DSA & System Design**
+- 💡 &nbsp; I love **building things from scratch**
+- ⚡ &nbsp; Fun fact: **I think in code and dream in dark mode**
+- 🎯 &nbsp; Goal: **Contribute to impactful Open Source projects**
+- 🌍 &nbsp; Based in **India** 🇮🇳
+
+    </td>
+    <td valign="top" width="50%">
+
+### 📬 Connect With Me
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aaryan1980)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+    </td>
+  </tr>
+</table>
+
+---
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/under-construction.gif" alt="Under Construction" />
 </div>
+
 
