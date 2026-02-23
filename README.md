@@ -62,7 +62,7 @@
     <img
       src="https://streak-stats.demolab.com?user=Aaryan1980&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A855F7&currStreakNum=58A6FF&sideNums=7C3AED&currStreakLabel=A855F7&sideLabels=58A6FF&dates=8B949E&border_radius=12"
       alt="GitHub Streak Stats"
-      height="280"
+      height="230"
     />
   </picture>
 
