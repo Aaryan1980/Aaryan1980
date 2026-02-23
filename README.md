@@ -8,12 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Full-Stack+Developer+%F0%9F%9A%80;Always+Learning+%7C+Always+Building+%F0%9F%94%A5;Turning+Ideas+Into+Reality+%E2%9C%A8;Code+%E2%80%A2+Create+%E2%80%A2+Conquer+%F0%9F%92%AA" alt="Typing SVG" />
 </a>
 
-<br/>
 
-<!-- Profile Views Badge -->
-<img src="https://komarev.com/ghpvc/?username=Code-Hexster&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-&nbsp;
-<a href="https://github.com/Code-Hexster?tab=followers"><img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Follow" /></a>
 
 </div>
 
